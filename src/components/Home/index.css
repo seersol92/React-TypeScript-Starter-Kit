@@ -1,4 +1,0 @@
-.hljs, .hljs-subst {color: #444;}
-.hljs { display: block;overflow-x: auto;padding: 0.5em; border-radius: 10px;}
-.hljs-keyword, .hljs-attribute, .hljs-selector-tag, .hljs-meta-keyword, .hljs-doctag, .hljs-name { font-weight: bold;}
-.hljs-type, .hljs-string, .hljs-number, .hljs-selector-id, .hljs-selector-class, .hljs-quote, .hljs-template-tag, .hljs-deletion {color: #880000;}

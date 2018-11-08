@@ -6,8 +6,7 @@ import {
 import Layout from './layout';
 import Routes from './routes'
 
-class App extends React.Component {
-  public render(): JSX.Element {
+const  App = () => {
     return (
       <Router>
           <Layout>
@@ -24,7 +23,6 @@ class App extends React.Component {
           </Layout>
       </Router>
     );
-  }
 }
 
 export default App;
